@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "652995693017",
+    "project_id": "proyecto-92c41",
+    "storage_bucket": "proyecto-92c41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652995693017:android:cb1fcf79ef56cba49b71c8",
+        "android_client_info": {
+          "package_name": "com.argueta.proyecto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652995693017-9cdcscpddto3fek7m8kebtkf8pjfact3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2_OJExLz9p4V8aDDdTXE41hOKOMhKxlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652995693017-9cdcscpddto3fek7m8kebtkf8pjfact3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
